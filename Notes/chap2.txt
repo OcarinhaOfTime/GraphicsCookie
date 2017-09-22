@@ -1,0 +1,4 @@
+* textures
+* normal mapping
+* transparency
+* holographic shader

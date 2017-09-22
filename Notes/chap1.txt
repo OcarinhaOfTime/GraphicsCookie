@@ -1,0 +1,6 @@
+* Some commom terms
+    - smearing
+    - swizzling
+    - masking
+
+* woring with the standard surface shader
