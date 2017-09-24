@@ -221,6 +221,7 @@
     <None Include="Assets\First edition\5084_11_Codes\5084_11_Codes\NightVisionEffectShader.shader" />
     <None Include="Assets\First edition\5084_11_Codes\5084_11_Codes\OldFilmEffectShader.shader" />
     <None Include="Assets\Materials\GrabShader.shader" />
+    <None Include="Assets\Playground\Shaders\AnisotropicSpecular.shader" />
     <None Include="Assets\Playground\Shaders\BlinnPhong.shader" />
     <None Include="Assets\Playground\Shaders\CustomDiffuse.shader" />
     <None Include="Assets\Playground\Shaders\CustomPhong.shader" />

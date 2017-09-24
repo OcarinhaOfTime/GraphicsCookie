@@ -31,6 +31,7 @@ Shader "Custom/BlinnPhong" {
 			half r2 = pow(_Roughness, 2);
 			half a = 1 - .5 * (r2 / (r2 - 0.33));
 			half b = 0.45 * (r2 / (r2 + 0.09));
+			
             half3 lr = (o.Albedo / pi) * cos(ndotl);
 			half4 c = (1,1,1,1);
 			return c;
