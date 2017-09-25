@@ -187,10 +187,12 @@
     <None Include="Assets\Materials\GrabShader.shader" />
     <None Include="Assets\Playground\Shaders\AnisotropicSpecular.shader" />
     <None Include="Assets\Playground\Shaders\BlinnPhong.shader" />
+    <None Include="Assets\Playground\Shaders\CustomBlend.shader" />
     <None Include="Assets\Playground\Shaders\CustomDiffuse.shader" />
     <None Include="Assets\Playground\Shaders\CustomPhong.shader" />
     <None Include="Assets\Playground\Shaders\CustomTransparent.shader" />
     <None Include="Assets\Playground\Shaders\LambertDiffuse.shader" />
+    <None Include="Assets\Playground\Shaders\NewSurfaceShader.shader" />
     <None Include="Assets\Playground\Shaders\OrenNayar.shader" />
     <None Include="Assets\Playground\Shaders\Silhouette.shader" />
     <None Include="Assets\Playground\Shaders\SimpleLightModel.shader" />
