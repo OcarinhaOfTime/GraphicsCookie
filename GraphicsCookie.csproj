@@ -176,6 +176,7 @@
     <None Include="Assets\Playground\Shaders\CustomDiffuse.shader" />
     <None Include="Assets\Playground\Shaders\CustomPhong.shader" />
     <None Include="Assets\Playground\Shaders\CustomTransparent.shader" />
+    <None Include="Assets\Playground\Shaders\Extruder.shader" />
     <None Include="Assets\Playground\Shaders\LambertDiffuse.shader" />
     <None Include="Assets\Playground\Shaders\NewSurfaceShader.shader" />
     <None Include="Assets\Playground\Shaders\OrenNayar.shader" />
