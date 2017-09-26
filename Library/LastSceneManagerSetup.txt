@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Playground/Scenes/grid.unity
+- path: Assets/Playground/Scenes/vertex_animation.unity
   isLoaded: 1
   isActive: 1
