@@ -233,9 +233,11 @@
     <None Include="Assets\Playground\Shaders\OrenNayar.shader" />
     <None Include="Assets\Playground\Shaders\Silhouette.shader" />
     <None Include="Assets\Playground\Shaders\SimpleLightModel.shader" />
+    <None Include="Assets\Playground\Shaders\SnowFX.shader" />
     <None Include="Assets\Playground\Shaders\Toon2.shader" />
     <None Include="Assets\Playground\Shaders\Tooon.shader" />
     <None Include="Assets\Playground\Shaders\VertexAnimation.shader" />
+    <None Include="Assets\Playground\Shaders\VolumetricExplosion.shader" />
     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />

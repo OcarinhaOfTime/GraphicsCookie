@@ -2,7 +2,7 @@
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}
-		_Amount("Extrude Ammount", Range(-1, 1)) = 0
+		_Amount("Extrude Ammount", Range(-0.0001, 0.0001)) = 0
 	}
 	SubShader {
 		Tags { "RenderType"="Opaque" }

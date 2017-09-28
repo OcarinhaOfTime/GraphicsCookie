@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: SoldierHead
-  m_Shader: {fileID: 4800000, guid: c1cf50ea62ded5a44a50ec53d66ebe18, type: 3}
+  m_Name: SoldierHead 1
+  m_Shader: {fileID: 4800000, guid: c9772c5834cd85b46b57a584c7508282, type: 3}
   m_ShaderKeywords: _EMISSION _NORMALMAP
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
@@ -19,6 +19,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 403cb0eaf05624e4a9fee72fc47256b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpTex:
         m_Texture: {fileID: 2800000, guid: 403cb0eaf05624e4a9fee72fc47256b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -59,6 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _Amount: 0.0000496
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
