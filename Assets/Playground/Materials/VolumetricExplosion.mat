@@ -63,7 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Ammount: 0.23
+    - _Ammount: 0.293
     - _BumpScale: 1
     - _ClipRange: 0.82
     - _Cutoff: 0.5
@@ -76,7 +76,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Period: 0.47
+    - _Period: 0.91
     - _RampOffset: -0.05
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
