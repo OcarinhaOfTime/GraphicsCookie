@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Playground/Scenes/imageFXTEst.unity
+- path: Assets/Playground/Scenes/chapter9.unity
   isLoaded: 1
   isActive: 1
