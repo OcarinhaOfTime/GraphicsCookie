@@ -1,4 +1,1 @@
-sceneSetups:
-- path: Assets/Playground/Scenes/chapter9.unity
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []

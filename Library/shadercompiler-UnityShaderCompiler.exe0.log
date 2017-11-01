@@ -1,2 +1,854 @@
 Base path: E:/Programs/Unity/Editor/Data
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1378 outsize=1149 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15862 outsize=1590 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=15862 outsize=6394 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4997 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4997 outsize=3602 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14446 outsize=1522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14446 outsize=2234 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4425 outsize=1378 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4425 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (14): failed to open source file: 'mycglib.cginc'
+  insize=670 outsize=464 ok=0
+Cmd: preprocess
+  insize=642 outsize=1148 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14386 outsize=1590 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14386 outsize=5338 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4259 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4259 outsize=2794 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=12970 outsize=1522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=12970 outsize=2106 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3687 outsize=1378 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3687 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=670 outsize=1148 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14442 outsize=1590 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14442 outsize=5338 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4287 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4287 outsize=2794 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13026 outsize=1522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13026 outsize=2106 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3715 outsize=1378 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3715 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14442 outsize=1714 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14442 outsize=5866 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4287 outsize=1218 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4287 outsize=2430 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13600 outsize=1954 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13600 outsize=1398 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3938 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3938 outsize=1674 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3447 outsize=1190 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3447 outsize=618 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13600 outsize=2078 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13600 outsize=1978 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3938 outsize=1218 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3938 outsize=1302 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13600 outsize=1954 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13600 outsize=1366 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3938 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3938 outsize=1642 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3447 outsize=1190 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3447 outsize=618 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13600 outsize=2078 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13600 outsize=1946 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3938 outsize=1218 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3938 outsize=1270 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (15): Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation.
+  insize=657 outsize=508 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=1384 outsize=1155 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  error: 2 plat 20 at Assets/Playground/Shaders/FurPass.cginc(24): Unexpected token usertype. Expected one of: ',' ';'
+  insize=1286 outsize=1709 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14574 outsize=1590 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14574 outsize=6394 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4353 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4353 outsize=3602 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13158 outsize=1522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13158 outsize=2234 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3781 outsize=1378 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3781 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  error: 2 plat 20 at Assets/Playground/Shaders/FurPass.cginc(24): Unexpected token usertype. Expected one of: ',' ';'
+  insize=1292 outsize=1715 ok=0
+Cmd: preprocess
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  error: 2 plat 20 at Assets/Playground/Shaders/FurPass.cginc(24): Unexpected token usertype. Expected one of: ',' ';'
+  insize=1295 outsize=1718 ok=0
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=2239 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14616 outsize=1590 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14616 outsize=6394 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4374 outsize=1218 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4374 outsize=3602 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13200 outsize=1522 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13200 outsize=2234 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3802 outsize=1378 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3802 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14045 outsize=2126 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14045 outsize=2846 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4081 outsize=1458 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4081 outsize=2494 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3575 outsize=1698 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3575 outsize=642 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  error: 2 plat 20 at Assets/Playground/Shaders/FurPass.cginc(21): Unexpected identifier "Input". Expected: ')'
+  insize=1295 outsize=1711 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1297 outsize=1668 ok=0
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader function 'surf' not found
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1668 ok=0
+Cmd: preprocess
+  insize=4249 outsize=15587 ok=1
+Cmd: preprocess
+  insize=1509 outsize=457 ok=1
+Cmd: preprocess
+  insize=916 outsize=255 ok=1
+Cmd: preprocess
+  insize=1877 outsize=1161 ok=1
+Cmd: preprocess
+  insize=1365 outsize=394 ok=1
+Cmd: preprocess
+  insize=1039 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1189 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1164 outsize=1014 ok=1
+Cmd: preprocess
+  insize=810 outsize=263 ok=1
+Cmd: preprocess
+  insize=1096 outsize=1000 ok=1
+Cmd: preprocess
+  insize=741 outsize=899 ok=1
+Cmd: preprocess
+  insize=2478 outsize=851 ok=1
+Cmd: preprocess
+  insize=611 outsize=1008 ok=1
+Cmd: preprocess
+  insize=998 outsize=1330 ok=1
+Cmd: preprocess
+  insize=973 outsize=1015 ok=1
+Cmd: preprocess
+  insize=829 outsize=929 ok=1
+Cmd: preprocess
+  error: 1 plat 20 at (13): Unrecognized #pragma surface directive: nolighting
+  insize=1051 outsize=1073 ok=1
+Cmd: preprocess
+  insize=684 outsize=1381 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1225 ok=1
+Cmd: preprocess
+  insize=1201 outsize=1068 ok=1
+Cmd: preprocess
+  insize=665 outsize=1016 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (41): Surface shader's output parameter needs to have 'inout' modifier; found no modifier at 'SurfaceOutputStandard o'
+  error: 1 plat 20 at (42): Unrecognized #pragma surface directive: fulldorwardshadows
+  insize=1295 outsize=1740 ok=0
+Cmd: preprocess
+  insize=742 outsize=1154 ok=1
+Cmd: preprocess
+  insize=1397 outsize=1581 ok=1
+Cmd: preprocess
+  insize=1155 outsize=336 ok=1
+Cmd: preprocess
+  insize=1220 outsize=1239 ok=1
+Cmd: preprocess
+  insize=940 outsize=212 ok=1

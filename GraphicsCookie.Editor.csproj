@@ -382,9 +382,12 @@
     <None Include="Assets\Playground\Shaders\CustomPhong.shader" />
     <None Include="Assets\Playground\Shaders\CustomTransparent.shader" />
     <None Include="Assets\Playground\Shaders\Extruder.shader" />
+    <None Include="Assets\Playground\Shaders\Fur.shader" />
+    <None Include="Assets\Playground\Shaders\FurPass.cginc" />
     <None Include="Assets\Playground\Shaders\GlassShader.shader" />
     <None Include="Assets\Playground\Shaders\GlassSimple.shader" />
     <None Include="Assets\Playground\Shaders\LambertDiffuse.shader" />
+    <None Include="Assets\Playground\Shaders\NewSurfaceShader.shader" />
     <None Include="Assets\Playground\Shaders\NewUnlitShader.shader" />
     <None Include="Assets\Playground\Shaders\OldMovie.shader" />
     <None Include="Assets\Playground\Shaders\OrenNayar.shader" />
@@ -392,10 +395,12 @@
     <None Include="Assets\Playground\Shaders\SimpleLightModel.shader" />
     <None Include="Assets\Playground\Shaders\SnowFX.shader" />
     <None Include="Assets\Playground\Shaders\TestEffect.shader" />
+    <None Include="Assets\Playground\Shaders\TestShader.shader" />
     <None Include="Assets\Playground\Shaders\Toon2.shader" />
     <None Include="Assets\Playground\Shaders\Tooon.shader" />
     <None Include="Assets\Playground\Shaders\VertexAnimation.shader" />
     <None Include="Assets\Playground\Shaders\VolumetricExplosion.shader" />
+    <None Include="Assets\Playground\Shaders\mycglib.cginc" />
     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />

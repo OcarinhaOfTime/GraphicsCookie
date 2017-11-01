@@ -86,7 +86,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RandomValue: -0.051530126
+    - _RandomValue: 0.06694574
     - _ScratchesXSpeed: 10
     - _ScratchesYSpeed: 10
     - _SmoothnessTextureChannel: 0
